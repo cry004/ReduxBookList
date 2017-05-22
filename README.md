@@ -1,4 +1,4 @@
-# React Book list
+# Redux Book list
 
 Original webpack source from ReduxSimpleStarter
 
